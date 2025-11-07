@@ -29,11 +29,11 @@ It highlights key metrics like total rides, total fare amount, average trip dist
 - Data Cleaning with Power Query
 
 ### 🧑‍💻 Author
-*GT (Data Analyst Aspirant)*  
+*Rajat Sharma (Data Analyst Aspirant)*  
 Built this dashboard as part of my Data Analytics learning journey.  
 
 ---
 📂 Project Files:
-- Uber_NCR_Dashboard.xlsx
+- Download Full Dashboard (Excel): [Click Here](["C:\Users\acer\OneDrive\Uber NCR dashboard.xlsx"](https://docs.google.com/spreadsheets/d/15_ci0AAUAnDVmLi4Tzm1mut0JZTHOLoN/edit?usp=drive_link&ouid=118419071139807983551&rtpof=true&sd=true))
 - Dashboard_Screenshot.png
 - README.md
