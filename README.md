@@ -35,5 +35,5 @@ Built this dashboard as part of my Data Analytics learning journey.
 ---
 📂 Project Files:
 - Download Full Dashboard (Excel): [Click Here](["C:\Users\acer\OneDrive\Uber NCR dashboard.xlsx"](https://docs.google.com/spreadsheets/d/15_ci0AAUAnDVmLi4Tzm1mut0JZTHOLoN/edit?usp=drive_link&ouid=118419071139807983551&rtpof=true&sd=true))
-- ![Uber NCR Dashboard Preview](Dashboard_Screenshot.png)
+- ![Uber NCR Dashboard Preview](UBR_NCR_dashboard.png)
 - README.md
